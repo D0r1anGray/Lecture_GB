@@ -1,0 +1,15 @@
+C:\Users\dange\OneDrive\Рабочий стол\Lecture_GB\Lecture2\Program1\bin\Debug\net6.0\Program1.exe
+C:\Users\dange\OneDrive\Рабочий стол\Lecture_GB\Lecture2\Program1\bin\Debug\net6.0\Program1.deps.json
+C:\Users\dange\OneDrive\Рабочий стол\Lecture_GB\Lecture2\Program1\bin\Debug\net6.0\Program1.runtimeconfig.json
+C:\Users\dange\OneDrive\Рабочий стол\Lecture_GB\Lecture2\Program1\bin\Debug\net6.0\Program1.dll
+C:\Users\dange\OneDrive\Рабочий стол\Lecture_GB\Lecture2\Program1\bin\Debug\net6.0\Program1.pdb
+C:\Users\dange\OneDrive\Рабочий стол\Lecture_GB\Lecture2\Program1\obj\Debug\net6.0\Program1.csproj.AssemblyReference.cache
+C:\Users\dange\OneDrive\Рабочий стол\Lecture_GB\Lecture2\Program1\obj\Debug\net6.0\Program1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dange\OneDrive\Рабочий стол\Lecture_GB\Lecture2\Program1\obj\Debug\net6.0\Program1.AssemblyInfoInputs.cache
+C:\Users\dange\OneDrive\Рабочий стол\Lecture_GB\Lecture2\Program1\obj\Debug\net6.0\Program1.AssemblyInfo.cs
+C:\Users\dange\OneDrive\Рабочий стол\Lecture_GB\Lecture2\Program1\obj\Debug\net6.0\Program1.csproj.CoreCompileInputs.cache
+C:\Users\dange\OneDrive\Рабочий стол\Lecture_GB\Lecture2\Program1\obj\Debug\net6.0\Program1.dll
+C:\Users\dange\OneDrive\Рабочий стол\Lecture_GB\Lecture2\Program1\obj\Debug\net6.0\refint\Program1.dll
+C:\Users\dange\OneDrive\Рабочий стол\Lecture_GB\Lecture2\Program1\obj\Debug\net6.0\Program1.pdb
+C:\Users\dange\OneDrive\Рабочий стол\Lecture_GB\Lecture2\Program1\obj\Debug\net6.0\Program1.genruntimeconfig.cache
+C:\Users\dange\OneDrive\Рабочий стол\Lecture_GB\Lecture2\Program1\obj\Debug\net6.0\ref\Program1.dll

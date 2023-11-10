@@ -1,0 +1,15 @@
+C:\Users\dange\OneDrive\Рабочий стол\Lecture_GB\Lecture2\Massive2\bin\Debug\net6.0\Massive2.exe
+C:\Users\dange\OneDrive\Рабочий стол\Lecture_GB\Lecture2\Massive2\bin\Debug\net6.0\Massive2.deps.json
+C:\Users\dange\OneDrive\Рабочий стол\Lecture_GB\Lecture2\Massive2\bin\Debug\net6.0\Massive2.runtimeconfig.json
+C:\Users\dange\OneDrive\Рабочий стол\Lecture_GB\Lecture2\Massive2\bin\Debug\net6.0\Massive2.dll
+C:\Users\dange\OneDrive\Рабочий стол\Lecture_GB\Lecture2\Massive2\bin\Debug\net6.0\Massive2.pdb
+C:\Users\dange\OneDrive\Рабочий стол\Lecture_GB\Lecture2\Massive2\obj\Debug\net6.0\Massive2.csproj.AssemblyReference.cache
+C:\Users\dange\OneDrive\Рабочий стол\Lecture_GB\Lecture2\Massive2\obj\Debug\net6.0\Massive2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dange\OneDrive\Рабочий стол\Lecture_GB\Lecture2\Massive2\obj\Debug\net6.0\Massive2.AssemblyInfoInputs.cache
+C:\Users\dange\OneDrive\Рабочий стол\Lecture_GB\Lecture2\Massive2\obj\Debug\net6.0\Massive2.AssemblyInfo.cs
+C:\Users\dange\OneDrive\Рабочий стол\Lecture_GB\Lecture2\Massive2\obj\Debug\net6.0\Massive2.csproj.CoreCompileInputs.cache
+C:\Users\dange\OneDrive\Рабочий стол\Lecture_GB\Lecture2\Massive2\obj\Debug\net6.0\Massive2.dll
+C:\Users\dange\OneDrive\Рабочий стол\Lecture_GB\Lecture2\Massive2\obj\Debug\net6.0\refint\Massive2.dll
+C:\Users\dange\OneDrive\Рабочий стол\Lecture_GB\Lecture2\Massive2\obj\Debug\net6.0\Massive2.pdb
+C:\Users\dange\OneDrive\Рабочий стол\Lecture_GB\Lecture2\Massive2\obj\Debug\net6.0\Massive2.genruntimeconfig.cache
+C:\Users\dange\OneDrive\Рабочий стол\Lecture_GB\Lecture2\Massive2\obj\Debug\net6.0\ref\Massive2.dll
