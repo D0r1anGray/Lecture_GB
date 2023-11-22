@@ -6,8 +6,8 @@ string Method4(int count, string text){
     }
     return result;
 }
-// string res = Method4(10, "йцукен ");
-// Console.WriteLine(res);
+string res = Method4(10, "йцукен ");
+Console.WriteLine(res);
 
 //Цикл в цикле. Задача вывода таблицы умножения на экран.
 for (int i = 2; i <=10; i++){
