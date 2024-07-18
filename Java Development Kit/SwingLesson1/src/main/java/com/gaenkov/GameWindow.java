@@ -2,6 +2,8 @@ package com.gaenkov;
 
 import javax.swing.*;
 import java.awt.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 
 public class GameWindow extends JFrame{
     private static final int WINDOW_WIDTH = 500;
@@ -12,6 +14,9 @@ public class GameWindow extends JFrame{
     JButton btnStart = new JButton("Начать игру");
     JButton btnExit = new JButton("Выход");
 
+    Map map;
+    SettingsWindow settings;
+
     public GameWindow() {
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); // close window when game ends.
         setSize(WINDOW_WIDTH, WINDOW_HEIGHT); // SIZE of window.
@@ -19,7 +24,23 @@ public class GameWindow extends JFrame{
         setTitle("Крестики-нолики");
         setResizable(false);
 
-        Map map = new Map(); // create map.
+        map = new Map(); // create map.
+        settings = new SettingsWindow(this);
+        settings.setVisible(false);// create settings window.
+
+        btnExit.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                System.exit(0); // close window.
+            }
+        });
+
+        btnStart.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                settings.setVisible(true);
+            }
+        });
 
         JPanel panel = new JPanel(new GridLayout(1, 2)); // create 2 buttons.
         panel.add(btnStart); // add buttons to window.
@@ -28,5 +49,9 @@ public class GameWindow extends JFrame{
         add(map); // add map to window.
 
         setVisible(true); // display window.
+    }
+
+    public void startGame(int mode, int sizeX, int sizeY, int length){
+        map.startNewGame(mode, sizeX, sizeY, length);
     }
 }
